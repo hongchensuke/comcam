@@ -1,0 +1,2 @@
+# comcam
+中文：通过使用这个软件，你可以把电脑摄像头当成摄像头监控来使用，支持多路摄像头。这个软件是我很多很多年前（约2013年-2014年）自己开发的，现在把源代码公开出来，由于暂时没有时间，所以直接公开，未做代码调整和优化，希望对技术传播有所助益。软件使用delphi7开发。 English:By using this software, you can use the computer camera as camera monitor, it support multi-channel cameras. This software was developed by myself many, many years ago (about 2013-2014). Now the source code is published. Because there is no time for now, it is directly published without code adjustment and optimization. I hope it will be helpful to the spread of technology. The software is developed with Delphi7.
